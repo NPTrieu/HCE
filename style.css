@@ -1,0 +1,25 @@
+.nav-item{
+    border-right: 1px solid black;
+}
+.navbar-nav a{color: #fff;}
+.dropdown .dropdown-menu{ 
+    background-color: #b01116;
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+.dropdown:hover {
+    background-color: #fff200;;
+}
+.dropdown .dropdown-menu a:hover {
+    background-color: #fff200;;
+}
+.container .float-end a.page:hover{
+    border-bottom: 1px solid #b01116;
+}
+p.ptinnoibat{
+    margin: 0;
+}
+.hrnoibat{
+    margin: 3px 0;
+}
